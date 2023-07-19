@@ -21,6 +21,28 @@
         "estado": "MG"
       },
       "id": 2
+    },
+    {
+      "comprador_id": "",
+      "vendedor_id": "andre@origamid.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "andre@origamid.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "",
+        "rua": "",
+        "numero": "",
+        "bairro": "",
+        "cidade": "",
+        "estado": ""
+      },
+      "id": 3
     }
   ],
   "usuario": [
@@ -45,6 +67,18 @@
       "numero": "25",
       "estado": "RJ",
       "cidade": "Rio de Janeiro"
+    },
+    {
+      "id": "XU2KiM_",
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "cep": "",
+      "rua": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": ""
     }
   ],
   "produto": [
